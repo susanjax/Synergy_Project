@@ -1,0 +1,35 @@
+IdList,Bacteria,Kingdom,clade,Phylum,Class,Order,Family,Genus,Species,Subkingdom
+['470'],Acinetobacter baumannii,Bacteria,,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter calcoaceticus/baumannii complex,
+['715'],Actinobacillus pleuropneumoniae ,Bacteria,,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Actinobacillus,Actinobacillus,
+['1396'],Bacillus cereus,Bacteria,Terrabacteria group,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus group,Terrabacteria group
+[''],Bacillus sp.        ,Bacteria,Terrabacteria group,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,species,Terrabacteria group
+['1423'],Bacillus subtilis,Bacteria,Terrabacteria group,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus subtilis group,Terrabacteria group
+['5476'],Candida albicans,Fungi,Opisthokonta,Dikarya,Ascomycota,saccharomyceta,Saccharomycotina,Saccharomycetes,Candida,
+['5478'],Candida glabrata,Fungi,Opisthokonta,Dikarya,Ascomycota,saccharomyceta,Saccharomycotina,Saccharomycetes,Nakaseomyces,
+['45582'],Candida saitoana,Fungi,Opisthokonta,Dikarya,Ascomycota,saccharomyceta,Saccharomycotina,Saccharomycetes,Candida glaebosa clade,
+['550'],Enterobacter cloacae ,Bacteria,,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter cloacae complex,
+['1351'],Enterococcus faecalis,Bacteria,Terrabacteria group,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus,Terrabacteria group
+['1352'],Enterococcus faecium,Bacteria,Terrabacteria group,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus,Terrabacteria group
+['562'],Escherichia coli        ,Bacteria,,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia,
+['1045010'],Escherichia coli O157,Bacteria,,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,
+['727'],Haemophilus influenzae,Bacteria,,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Haemophilus,
+['573'],Klebsiella pneumoniae        ,Bacteria,,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella/Raoultella group,Klebsiella,Klebsiella/Raoultella group
+['576'],Klebsiella sp.,Bacteria,,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella/Raoultella group,unclassified Klebsiella,Klebsiella/Raoultella group
+['1639'],Listeria monocytogenes,Bacteria,Terrabacteria group,Bacillota,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria,Terrabacteria group
+['1270'],Micrococcus luteus        ,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Micrococcus,Micrococcus,Terrabacteria group
+['488'],Neisseria mucosa,Bacteria,,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria,
+['747'],Pasteurella Multocida,Bacteria,,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Pasteurella,Pasteurella,
+['584'],Proteus mirabilis,Bacteria,,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Morganellaceae,Proteus,Proteus,
+['229037'],Proteus sp.,Bacteria,,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Morganellaceae,Proteus,unclassified Proteus (in: enterobacteria),
+['585'],Proteus vulgaris,Bacteria,,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Morganellaceae,Proteus,Proteus,
+['287'],Pseudomonas aeruginosa,Bacteria,,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa group
+['198620'],Pseudomonas koreensis,Bacteria,,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens group,Pseudomonas fluorescens group
+['90370'],Salmonella  typhi,Bacteria,,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica subsp. enterica,
+['90371'],Salmonella typhimurium ,Bacteria,,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica subsp. enterica,
+['618'],Serratia odorifera,Bacteria,,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia,
+['1280'],Staphylococcus aureus,Bacteria,Terrabacteria group,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus,Terrabacteria group
+['1282'],Staphylococcus epidermidis ,Bacteria,Terrabacteria group,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,epidermidis,Terrabacteria group
+['1309'],Streptococcus mutans,Bacteria,Terrabacteria group,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus,Terrabacteria group
+['1349'],Streptococcus uberis,Bacteria,Terrabacteria group,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus,Terrabacteria group
+['666'],Vibrio cholerae,Bacteria,,Pseudomonadota,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio,
+['670'],Vibrio parahaemolyticus,Bacteria,,Pseudomonadota,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio harveyi group,Vibrio harveyi group
